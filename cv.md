@@ -14,7 +14,7 @@ proficient specialist that who can independently perform complex tasks and parti
 - Belarussian State Economic University
 - - finance and credit
 ## Languages
-- Russian
+- Russian (native)
 - English (B1)
 - French (B2)
 - Polish (A1)
